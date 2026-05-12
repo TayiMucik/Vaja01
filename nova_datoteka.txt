@@ -1,1 +1,3 @@
 To je nova besedilna datoteka. 
+Sprememba na glavni veji. 
+Popravek za GitHub Issue. 
