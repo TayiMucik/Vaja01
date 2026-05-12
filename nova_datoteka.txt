@@ -1,3 +1,2 @@
 To je nova besedilna datoteka. 
 Sprememba na glavni veji. 
-Dodana nova vsebina za revert. 
